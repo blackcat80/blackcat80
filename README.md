@@ -1,6 +1,7 @@
 ### Hi there 👋
-<a href="https://user-images.githubusercontent.com/101610337/214110640-273c61de-c7d2-4ff0-90e0-53b4c601ef88.gif)"><img src="img/42.png" align="center"width="1000" height="200"></a>
 
+<img src="https://user-images.githubusercontent.com/101610337/214110640-273c61de-c7d2-4ff0-90e0-53b4c601ef88.gif)" alt="drawing" width="800" height="150"/><h1></h1>
+     
 <!--
 **blackcat80/blackcat80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif" alt="drawing" width="800" height="150"/><h1></h1>
