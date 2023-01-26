@@ -1,5 +1,5 @@
 ### Hi there 👋
-![code-secret](https://user-images.githubusercontent.com/101610337/214110640-273c61de-c7d2-4ff0-90e0-53b4c601ef88.gif)"><img src="img/42.png" align="center"width="1000" height="200"></a>
+<a href="https://user-images.githubusercontent.com/101610337/214110640-273c61de-c7d2-4ff0-90e0-53b4c601ef88.gif)"><img src="img/42.png" align="center"width="1000" height="200"></a>
 
 <!--
 **blackcat80/blackcat80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
